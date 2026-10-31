@@ -399,6 +399,7 @@ encompassing maintenance, computational resources, and energy expenses.</h3>
 glitch tokens, have the potential to disrupt the functionality of LLMs,
 highlighting the importance of robust security measures in LLM
 deployment.</h3>
+<img width="500" height="650" alt="Screenshot 2026-10-30 205711" src="https://github.com/user-attachments/assets/a0acc1ad-8e55-40d9-a1ef-9bcece5ac0e1" />
 
 
 # Result
